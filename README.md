@@ -1,24 +1,6 @@
-# tour-de-whirlpool-kit
+![Tour-de-Whirlpool-image-2-small](https://github.com/user-attachments/assets/e7c80398-5329-4512-97fd-395285e7e0c9)
 
-Tour de Whirlpool for Orca's Typescript Kit SDK `@orca-so/whirlpools`
+# The repository has been migrated 🚚
 
-## How to run
-
-1. Install dependencies
-
-```bash
-yarn
-```
-
-2. Create `.env` file
-
-```bash
-cp .env.example .env
-# or create your own .env file
-```
-
-3. Run
-
-```bash
-ts-node src/011_get_sol_balance.ts
-```
+- Tour-de-Whirlpool (with new TS SDK and kit) is now maintained at [whirlpools-sdk-tutorial-kit](https://github.com/orca-so/whirlpools-sdk-tutorial-kit).
+- Tour-de-Whirlpool (with LegacySDK and web3.js V1) is now maintained at [whirlpools-sdk-tutorial-legacy](https://github.com/orca-so/whirlpools-sdk-tutorial-legacy).
